@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper {
+	margin: 5px;
+	padding: 5px;
+	height: 100%;
+	width: 99%;
+	background-color: #CC9;
+}
+#header {
+	margin: 5px;
+	padding: 5px;
+	height: 100%;
+	width: 95%;
+	color: #FFF;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#navigation {
+	margin: 5px;
+	padding: 5px;
+	height: 100%;
+	width: 95%;
+	background-color: #CC9;
+}
+#main {
+	margin: 5px;
+	padding: 5px;
+	height: 100%;
+	width: 95%;
+}
+#footer {
+	margin: 5px;
+	padding: 5px;
+	height: 100%;
+	width: 95%;
+	background-color: #CC9;
+}
+#content {
+	padding: 5px;
+	height: 100%;
+	width: 95%;
+	margin: 5px;
+	color: #FFF;
+	font-family: "Comic Sans MS", cursive;
+	border: 20px groove #000;
+}
+#wrapper #header table tr td h1 u em strong {
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+#wrapper #main #navigation table tr td {
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+.Font {
+	color: #903;
+	font-family: "Comic Sans MS", cursive;
+}
+.font {
+	color: #C00;
+	font-weight: bold;
+	font-family: "Comic Sans MS", cursive;
+}
+#main_picture {
+	margin: 5px;
+	padding: 5px;
+	height: 100%;
+	width: 90%;
+}
